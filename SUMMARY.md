@@ -1,6 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
-* [基本数据类型](基本数据类型/String.md)
-  * [String](String.md)
+* 基本数据类型
+  * [String](基本数据类型/String.md)
+  * [List](基本数据类型/List.md)
+  * 
 
