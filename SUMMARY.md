@@ -1,8 +1,4 @@
-# Summary
+# Table of contents
 
-* [Introduction](README.md)
-* 基本数据类型
-  * [String](基本数据类型/String.md)
-  * [List](基本数据类型/List.md)
-  * 
+* [Initial page](README.md)
 
