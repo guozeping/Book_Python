@@ -1,4 +1,4 @@
-<center><font>String</font></center>
+<center><font size=50>String</font></center>
 
 [toc]
 
